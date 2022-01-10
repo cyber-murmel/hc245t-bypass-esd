@@ -23,4 +23,11 @@ fp-info-cache
 
 # Exported BOM files
 *.xml
-*.csv
+
+# Local Files
+*.kicad_prl
+fp-info-cache
+
+# Archives
+*.zip
+
